@@ -7,7 +7,8 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 - [Lab 2: "Extend agents with Model Context Protocol (MCP) tools" or "Extend agents with Model Context Protocol (MCP) tools"](./Lab02-mcp-integration.md)
 - [Lab 3: Integrate an AI agent with Foundry IQ](./Lab03-integrate-agent-with-foundry-iq.md)
 - Lab 4: Develop an Azure AI chat agent with the Microsoft Agent Framework SDK
-- Lab 5: Develop a multi-agent solution
+- [Lab 5: "Develop a multi-agent solution" or "Develop a multi-agent solution with Microsoft Agent Framework"](./Lab05-agent-framework-multi-agents.md)
+
 
 ----
 

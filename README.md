@@ -11,4 +11,8 @@ Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](http
 
 ----
 
+[Publish a Foundry agent to Teams](./PublishFoundryAgentToTeams.md)
+
+
+
 [Visual Studio Code tips and tricks](./VSCode.md)

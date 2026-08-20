@@ -1,5 +1,6 @@
-# AI-3026-Develop-AI-agents-on-Azure
+# AI-3026: Develop AI agents on Azure
 
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AI-3026: Develop AI agents on Azure.
 
 **Labs**
 - [Lab 1: Use a custom function in an AI agent](./Lab01-agent-custom-tools.md)

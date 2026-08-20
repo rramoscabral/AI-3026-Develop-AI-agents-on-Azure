@@ -3,8 +3,8 @@
 
 **Labs**
 - [Lab 1: Use a custom function in an AI agent](./Lab01-agent-custom-tools.md)
-- [Lab 2: "Extend agents with Model Context Protocol (MCP) tools" or "Extend agents with Model Context Protocol (MCP) tools"](./Lab03-mcp-integration.md)
-- [Lab 3: Integrate an AI agent with Foundry IQ](./Lab04-integrate-agent-with-foundry-iq.md)
+- [Lab 2: "Extend agents with Model Context Protocol (MCP) tools" or "Extend agents with Model Context Protocol (MCP) tools"](./Lab02-mcp-integration.md)
+- [Lab 3: Integrate an AI agent with Foundry IQ](./Lab03-integrate-agent-with-foundry-iq.md)
 - Lab 4: Develop an Azure AI chat agent with the Microsoft Agent Framework SDK
 - Lab 5: Develop a multi-agent solution
 

@@ -1,4 +1,4 @@
-# Lab: Use a custom function in an AI agent
+# Demo
 
 > Note: Remember to update your project endpoint at **.env** file.
 
